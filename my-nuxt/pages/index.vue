@@ -1,9 +1,8 @@
 <template>
     <div>
         <h2>Home</h2>
-        <p>This is the homepage. Ad Astra Abyssosque!!!!</p>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis maiores excepturi iste consectetur ratione expedita sed soluta culpa aliquid saepe voluptates, molestiae dolorem enim sunt porro non quibusdam id sint!</p>
-
+        <p>Barnes & Noble Booksellers is an American bookseller. It is a Fortune 1000 company and the bookseller with the largest number of retail outlets in the United States. As of July 7, 2020, the company operates 614 retail stores across all 50 U.S. states.</p>
+        <p>Barnes & Noble operates mainly through its Barnes & Noble Booksellers chain of bookstores. The company's headquarters are at 33 E. 17th Street on Union Square in New York City.</p>
     </div>
 </template>
 
